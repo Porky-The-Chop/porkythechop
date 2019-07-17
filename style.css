@@ -19,7 +19,7 @@ body {
 #sideBar {
   background: #E4304C;
   width: 20%;
-  height: 500px;;
+  height: 500px;
   z-index: 1; 
   float: right;
   position: fixed;
