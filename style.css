@@ -95,7 +95,7 @@ footer {
 
 /* Style The Dropdown Button */
 #dropbtn {
-  background-color: #A4A4A4;
+  background-color: #444444;
   color: #040404;
   padding: 16px;
   font-size: 16px;
@@ -112,15 +112,6 @@ footer {
 /*Dropdown Content (Hidden by Default) */
 .dropdown-content {
   visibility: hidden;
-  position: absolute;
-  background-color: #A4A4A4;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 2;
-}
-
-.dropdown-content2 {
-  visibility: visible;
   position: absolute;
   background-color: #A4A4A4;
   min-width: 160px;
