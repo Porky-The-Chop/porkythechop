@@ -61,3 +61,22 @@ p {
 ul {
   width: 95%;
 }
+
+a:link {
+  color: #FCE4E6;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FCE4E6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FCE4E6;
+  text-decoration: none;
+}
