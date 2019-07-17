@@ -22,7 +22,7 @@ body {
   height: 500px;
   z-index: 1; 
   float: right;
-  position: fixed;
+  position: absolute;
   right: 10px;
   top: 70px;
   border: solid;
