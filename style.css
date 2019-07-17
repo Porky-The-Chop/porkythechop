@@ -49,7 +49,7 @@ p {
 .inline {
   display: inline;
   float: right;
-  margin: 10px;
+  margin-left: 10px;
 }
     
 ul {
