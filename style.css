@@ -63,12 +63,12 @@ ul {
 }
 
 a:link {
-  color: #FCE4E6;
+  color: #000000;
   text-decoration: none;
 }
 
 a:visited {
-  color: #FCE4E6;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -77,6 +77,6 @@ a:hover {
 }
 
 a:active {
-  color: #FCE4E6;
+  color: #000000;
   text-decoration: none;
 }
