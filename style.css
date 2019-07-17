@@ -81,3 +81,8 @@ a:active {
   color: #000000;
   text-decoration: none;
 }
+
+footer {
+  height: 80px;
+  background: #E4304C;
+}
