@@ -85,4 +85,7 @@ a:active {
 footer {
   height: 80px;
   background: #E4304C;
+  footer: 100%;
+  position: absolute;
+  bottom: 0px;
 }
