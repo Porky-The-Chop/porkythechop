@@ -111,7 +111,7 @@ footer {
 
 /*Dropdown Content (Hidden by Default) */
 .dropdown-content {
-  display: none;
+  display: block;
   position: absolute;
   background-color: #A4A4A4;
   min-width: 160px;
