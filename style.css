@@ -46,12 +46,12 @@ p {
   display: inline;
 }
     
-#inline {
+#inline1 {
   display: inline;
   float: right;
 }
 
-#inline1 {
+#inline {
   display: inline;
   float: right;
   position: relative;
