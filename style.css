@@ -128,7 +128,7 @@ footer {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #A4A4A4}
+/*.dropdown-content a:hover {background-color: #A4A4A4}*/
 
 /* Show the dropdown menu on hover 
 .dropdown:hover .dropdown-content {
