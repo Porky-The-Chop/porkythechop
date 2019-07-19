@@ -94,7 +94,7 @@ footer {
 }
 
 .dropbtn {
-  background-color: orange;
+  background-color: #444444;
   color: black;
   padding: 16px;
   font-size: 16px;
@@ -103,7 +103,7 @@ footer {
 }
 
 .dropbtn:hover, .dropbtn:focus {
-  background-color: pink;
+  background-color: #444444;
 }
 
 .dropdown {
