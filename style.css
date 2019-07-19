@@ -19,7 +19,7 @@ body {
 }
     
 #sideBar {
-  background: #E4304C;
+  background: #444444/*E4304C*/;
   width: 20%;
   height: 500px;
   z-index: 0; 
