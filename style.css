@@ -19,7 +19,7 @@ body {
 }
     
 #sideBar {
-  background: #444444/*E4304C*/;
+  background: #666666/*E4304C*/;
   width: 20%;
   z-index: 0; 
   float: right;
@@ -38,6 +38,7 @@ body {
   margin-right: 20px;
   font-family: "Gill Sans", sans-serif;
   z-index: 0;
+  background: white;
 }
   
 p {
