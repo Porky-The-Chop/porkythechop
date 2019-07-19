@@ -8,7 +8,7 @@ body {
 #headerWrapper {
   margin: 0px;
   padding: 5px;
-  height: 78px;
+  height: 62px;
   /*border-bottom: dotted;*/
   background: #444444;
   position: fixed;
@@ -96,7 +96,7 @@ footer {
 .dropbtn {
   background-color: #444444;
   color: black;
-  padding: 26px;
+  padding: 18px;
   font-size: 16px;
   border: none;
   cursor: pointer;
