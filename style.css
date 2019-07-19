@@ -92,10 +92,11 @@ a:active {
 
 footer {
   height: 80px;
-  background: #E4304C;
+  background: #666666;
   width: 100%;
   position: absolute;
   bottom: 0px;
+  border-top: solid;
 }
 
 .dropbtn {
