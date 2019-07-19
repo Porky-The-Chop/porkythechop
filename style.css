@@ -21,7 +21,6 @@ body {
 #sideBar {
   background: #444444/*E4304C*/;
   width: 20%;
-  height: 500px;
   z-index: 0; 
   float: right;
   position: absolute;
@@ -33,7 +32,6 @@ body {
     
 #all {
   width: 70%;
-  background: #F0F0F0;
   position: relative;
   top: 65px;
   margin-left: 20px;
