@@ -33,7 +33,7 @@ body {
 #all {
   width: 70%;
   position: relative;
-  top: 65px;
+  top: 70px;
   margin-left: 20px;
   margin-right: 20px;
   font-family: "Gill Sans", sans-serif;
@@ -101,8 +101,8 @@ footer {
   background: #666666;
   width: 100%;
   border-top: solid;
-  position: relative;
-  top: 65px;
+  position: absolute;
+  bottom: 0px;
 }
 
 .dropbtn {
