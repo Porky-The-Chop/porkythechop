@@ -30,4 +30,10 @@ function mySearchFunction() {
             li[i].style.display = "none";
         }
     }
+  
+    if (txtValue == "") {
+        ul.style.visibility = "hidden";
+    } else {
+        ul.style.visibility = "visible";
+    }
 }
