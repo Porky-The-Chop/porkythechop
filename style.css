@@ -47,6 +47,7 @@ p {
   
 #logo {
   display: inline;
+  float: right;
 }
     
 #inline1 {
