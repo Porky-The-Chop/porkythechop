@@ -48,6 +48,7 @@ p {
 #logo {
   display: inline;
   float: right;
+  border: solid;
 }
     
 #inline1 {
@@ -98,7 +99,7 @@ footer {
   color: black;
   padding: 18px;
   font-size: 16px;
-  border: none;
+  border: solid;
   cursor: pointer;
   font-weight: bold;
 }
