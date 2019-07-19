@@ -40,6 +40,10 @@ body {
   z-index: 0;
   background: white;
 }
+
+h2 {
+  padding: 5px;
+}
   
 p {
   margin: 3%;
