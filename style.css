@@ -51,6 +51,8 @@ p {
   border: none;
   padding: 16px;
   font-weight: bold;
+  position: relative;
+  bottom: 10px;
 }
     
 #inline1 {
