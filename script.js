@@ -1,4 +1,4 @@
-document.getElementById("headerWrapper").innerHTML  = '<div class="dropdown">
+/*document.getElementById("headerWrapper").innerHTML  = '<div class="dropdown">
       <button onclick="myFunction()" class="dropbtn"> <i class="fas fa-bars" style="font-size:18px"></i> </button>
       <div id="myDropdown" class="dropdown-content">
         <a href="index.html">About</a>
@@ -56,7 +56,7 @@ function mySearchFunction() {
     }
   
     document.getElementById("myDropdown1").classList.toggle("show");
-</script>';
+</script>';*/
 
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
