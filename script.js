@@ -1,5 +1,5 @@
-document.getElementByTagId("headerWrapper").innerHTML = "Hello World!"; = "<div class="dropdown">
-      <button onclick="myFunction()" class="dropbtn"> <i class='fas fa-bars' style='font-size:18px'></i> </button>
+document.getElementByTagId("headerWrapper").innerHTML  = '<div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn"> <i class="fas fa-bars" style="font-size:18px"></i> </button>
       <div id="myDropdown" class="dropdown-content">
         <a href="index.html">About</a>
         <a href="health.html">Health</a>
@@ -19,7 +19,7 @@ document.getElementByTagId("headerWrapper").innerHTML = "Hello World!"; = "<div 
          <li><a href="index.html">About</a></li>
        </ul>
       </div>
-    <h1 id='logo'>PorkyTheChop</h1>
+    <h1 id="logo">PorkyTheChop</h1>
     
 <script>
         function myFunction() {
@@ -27,13 +27,13 @@ document.getElementByTagId("headerWrapper").innerHTML = "Hello World!"; = "<div 
 }
 
 window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
+  if (!event.target.matches(".dropbtnz")) {
     var dropdowns = document.getElementsByClassName("dropdown-content");
     var i;
     for (i = 0; i < dropdowns.length; i++) {
       var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
+      if (openDropdown.classList.contains("show")) {
+        openDropdown.classList.remove("show");
       }
     }
   }
@@ -56,7 +56,7 @@ function mySearchFunction() {
     }
   
     document.getElementById("myDropdown1").classList.toggle("show");
-</script>";
+</script>';
 
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
