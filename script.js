@@ -31,9 +31,5 @@ function mySearchFunction() {
         }
     }
   
-    if (txtValue == "") {
-        ul.style.visibility = "hidden";
-    } else {
-        ul.style.visibility = "visible";
-    }
+    document.getElementById("myDropdown1").classList.toggle("show");
 }
