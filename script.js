@@ -45,3 +45,7 @@ function mySearchFunction() {
     document.getElementById("myDropdown1").classList.toggle("show");
     headerFunc();
 }
+
+while(true){
+  headerFunc();
+}
