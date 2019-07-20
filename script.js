@@ -1,11 +1,26 @@
-document.getElementById("myUL").innerHTML = `
-  <li><a href="food.html">Food</a></li>
-  <li><a href="food1.html">Food1</a></li>
-  <li><a href="health.html">Health</a></li>
-  <li><a href="health1.html">Health1</a></li>
-  <li><a href="tech.html">Technology</a></li>
-  <li><a href="tech1.html">Technology1</a></li>
-  <li><a href="index.html">About</a></li>`;
+document.getElementById("headerWrapper").innerHTML = `
+  <div class="dropdown">
+      <button onclick="myFunction()" class="dropbtn"> <i class='fas fa-bars' style='font-size:18px'></i> </button>
+      <div id="myDropdown" class="dropdown-content">
+        <a href="index.html">About</a>
+        <a href="health.html">Health</a>
+        <a href="food.html">Food</a>
+        <a href="tech.html">Technology</a>
+      </div>
+    </div>
+    <input type="text" id="myInput" onkeyup="mySearchFunction()" placeholder="Search" title="Type in a name" class="dropbtn">
+      <div id="myDropdown1" class="dropdown-content">
+       <ul id="myUL">
+         <li><a href="food.html">Food</a></li>
+         <li><a href="food1.html">Food1</a></li>
+         <li><a href="health.html">Health</a></li>
+         <li><a href="health1.html">Health1</a></li>
+         <li><a href="tech.html">Technology</a></li>
+         <li><a href="tech1.html">Technology1</a></li>
+         <li><a href="index.html">About123</a></li>
+       </ul>
+      </div>
+    <h1 id='logo'>PorkyTheChop</h1>`;
 
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
