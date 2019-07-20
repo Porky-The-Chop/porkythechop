@@ -1,4 +1,4 @@
-document.getElementsByTagName("HEADER")[0].innerHTML = "Hello World!"; = "<div id='headerWrapper'>
+/*document.getElementsByTagName("HEADER")[0].innerHTML = "Hello World!"; = "<div id='headerWrapper'>
     <div class="dropdown">
       <button onclick="myFunction()" class="dropbtn"> <i class='fas fa-bars' style='font-size:18px'></i> </button>
       <div id="myDropdown" class="dropdown-content">
@@ -21,7 +21,7 @@ document.getElementsByTagName("HEADER")[0].innerHTML = "Hello World!"; = "<div i
        </ul>
       </div>
     <h1 id='logo'>PorkyTheChop</h1>
-  </div>";
+  </div>";*/
 
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
