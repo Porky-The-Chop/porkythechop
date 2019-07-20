@@ -22,6 +22,14 @@ document.getElementById("headerWrapper").innerHTML = `
       </div>
     <h1 id='logo'>PorkyTheChop</h1>`;
 
+document.getElementById("sideBar").innerHTML = `
+  <h4>Discord Servers</h4>
+    <a href="https://discord.gg/PGttKhG">Homework Help</a><br>
+    <a href="https://discord.gg/zpqQwAF">HD 40307 b</a><br>
+    <a href="https://discord.gg/WfKaXvg">Creative of Time</a><br>
+    <a href="https://discord.gg/X38T52u">YouTube</a><br>
+    <a href="https://discord.gg/EaEUR4X">Food</a><br>`;
+
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
