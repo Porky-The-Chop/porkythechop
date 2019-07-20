@@ -3,6 +3,7 @@ body {
   padding: 0px;
   font-family: "Gill Sans", sans-serif;
   color: #040404;
+  min-height: 100%
 }
   
 #headerWrapper {
