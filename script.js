@@ -1,5 +1,5 @@
 function headerFunc() {
-      document.getElementById("headerWrapper").innerHTML  = '<div class="dropdown">
+      document.getElementById("headerWrapper").innerHTML = '<div class="dropdown">
       <button onclick="myFunction()" class="dropbtn"> <i class="fas fa-bars" style="font-size:18px"></i> </button>
       <div id="myDropdown" class="dropdown-content">
         <a href="index.html">About</a>
