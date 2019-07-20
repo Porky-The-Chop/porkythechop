@@ -164,7 +164,6 @@ footer {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  visibility: hidden; /*default*/
 }
 
 #myUL li a {
