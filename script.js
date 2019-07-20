@@ -1,14 +1,3 @@
-function headerFunc() {
-  document.getElementById("myUL").innerHTML = '
-    <li><a href="food.html">Food</a></li>
-    <li><a href="food1.html">Food1</a></li>
-    <li><a href="health.html">Health</a></li>
-    <li><a href="health1.html">Health1</a></li>
-    <li><a href="tech.html">Technology</a></li>
-    <li><a href="tech1.html">Technology1</a></li>
-    <li><a href="index.html">About</a></li>';
-}
-
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
@@ -43,9 +32,4 @@ function mySearchFunction() {
     }
   
     document.getElementById("myDropdown1").classList.toggle("show");
-    headerFunc();
-}
-
-while(true){
-  headerFunc();
 }
