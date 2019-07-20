@@ -1,4 +1,4 @@
-document.getElementsByTagName("header").innerHTML = "<div id='headerWrapper'>
+document.getElementsByTagName("HEADER")[0].innerHTML = "Hello World!"; = "<div id='headerWrapper'>
     <div class="dropdown">
       <button onclick="myFunction()" class="dropbtn"> <i class='fas fa-bars' style='font-size:18px'></i> </button>
       <div id="myDropdown" class="dropdown-content">
