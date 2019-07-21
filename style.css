@@ -75,9 +75,9 @@ p {
   right: 100px;
 }
     
-/*ul {
-  width: 95%;
-}*/
+ul {
+  text-decoration: none;
+}
 
 a:link {
   color: #040404;
