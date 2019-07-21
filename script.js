@@ -30,7 +30,7 @@ document.getElementById("sideBar").innerHTML = `
     <a href="https://discord.gg/X38T52u">YouTube</a><br>
     <a href="https://discord.gg/EaEUR4X">Food</a><br>`;
 
-document.getElementsByTagName("footer")[0].innerHTML = `
+document.getElementById("foot").innerHTML = `
   <ul>
     <li><strong>Contact:</strong></li>
     <li>Discord (PorkyTheChop#0001)</li>
