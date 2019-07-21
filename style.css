@@ -4,7 +4,7 @@ body {
   font-family: "Gill Sans", sans-serif;
   color: #040404;
   min-height: 100%;
-  font-size: 25pt;
+  font-size: 20pt;
 }
   
 #headerWrapper {
@@ -104,7 +104,7 @@ footer {
   border-top: solid;
   position: absolute;
   top: 100%;
-  font-size: 15pt;
+  font-size: 8pt;
 }
 
 .dropbtn {
