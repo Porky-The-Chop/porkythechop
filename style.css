@@ -4,7 +4,7 @@ body {
   font-family: "Gill Sans", sans-serif;
   color: #040404;
   min-height: 100%;
-  font-size: 20pt;
+  font-size: 16pt;
 }
   
 #headerWrapper {
@@ -34,6 +34,7 @@ body {
     
 #all {
   width: 70%;
+  height: 100%;
   position: relative;
   top: 70px;
   margin-left: 20px;
@@ -102,8 +103,8 @@ footer {
   background: #666666;
   width: 100%;
   border-top: solid;
-  position: absolute;
-  top: 100%;
+  /*position: absolute;
+  top: 100%;*/
   font-size: 8pt;
 }
 
