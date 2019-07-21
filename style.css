@@ -103,8 +103,8 @@ footer {
   background: #666666;
   width: 100%;
   border-top: solid;
-  /*position: absolute;
-  top: 100%;*/
+  position: absolute;
+  bottom: 0px;
   font-size: 8pt;
 }
 
