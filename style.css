@@ -76,7 +76,7 @@ p {
 }
     
 ul {
-  text-decoration: none;
+  list-style-type: none;
 }
 
 a:link {
@@ -95,10 +95,6 @@ a:hover {
 
 a:active {
   color: #040404;
-  text-decoration: none;
-}
-
-li {
   text-decoration: none;
 }
 
