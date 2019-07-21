@@ -4,6 +4,7 @@ body {
   font-family: "Gill Sans", sans-serif;
   color: #040404;
   min-height: 100%;
+  font-size: 25pt;
 }
   
 #headerWrapper {
@@ -98,12 +99,12 @@ a:active {
 }
 
 footer {
-  height: 80px;
   background: #666666;
   width: 100%;
   border-top: solid;
   position: absolute;
   top: 100%;
+  font-size: 15pt;
 }
 
 .dropbtn {
