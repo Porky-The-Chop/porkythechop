@@ -37,6 +37,7 @@ document.getElementById("foot").innerHTML = `
     <li>Instagram (<a href="https://www.instagram.com/porkythechop_/">porkythechop_</a>)</li>
     <li>Twitter (<a href="https://twitter.com/porkythechoppy">PorkyTheChoppy</a>)</li>
     <li></li>
+    <br>
   </ul>`;
 
 function myFunction() {
