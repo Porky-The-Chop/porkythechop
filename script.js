@@ -30,6 +30,15 @@ document.getElementById("sideBar").innerHTML = `
     <a href="https://discord.gg/X38T52u">YouTube</a><br>
     <a href="https://discord.gg/EaEUR4X">Food</a><br>`;
 
+document.getElementsByTagName("footer")[0].innerHTML = `
+  <ul>
+    <li><strong>Contact:</strong></li>
+    <li>Discord (PorkyTheChop#0001)</li>
+    <li>Instagram (<a href="https://www.instagram.com/porkythechop_/">porkythechop_</a>)</li>
+    <li>Twitter (<a href="https://twitter.com/porkythechoppy">PorkyTheChoppy</a>)</li>
+    <li></li>
+  </ul>`;
+
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
