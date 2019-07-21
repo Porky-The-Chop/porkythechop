@@ -4,7 +4,6 @@ body {
   font-family: "Gill Sans", sans-serif;
   color: #040404;
   min-height: 100%;
-  font-size: 16pt;
 }
   
 #headerWrapper {
@@ -96,6 +95,10 @@ a:hover {
 
 a:active {
   color: #040404;
+  text-decoration: none;
+}
+
+li {
   text-decoration: none;
 }
 
