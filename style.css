@@ -102,8 +102,8 @@ footer {
   background: #666666;
   width: 100%;
   border-top: solid;
-  position: relative;
-  top: 70px;
+  position: absolute;
+  top: 100%;
 }
 
 .dropbtn {
